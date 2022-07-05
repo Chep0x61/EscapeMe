@@ -6,13 +6,15 @@
 	    <title>Escape Me</title>
         <link rel="stylesheet" href="../../styles/destination.css">
         <link rel="icon" type="image/jpg" href="../../../assets/pics/aircraft.jpg">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <body>
-        <h1>Iceland Waterfall</h1>
-
         <script src="../../scripts/main.js"></script>
-        <a href="javascript:destPicker(1, 'icelandWaterfall')"> Take another fly </a>
-        <a href="javascript:mainMenu()">  Comeback to main menu </a>
+        <nav>
+            <button class="button" onclick="javascript:mainMenu()"><i class="fa fa-home"></i></button>
+            <h1>Iceland Waterfall</h1>
+            <button class="button" onclick="javascript:destPicker(1, 'icelandWaterfall')"><i class="fa fa-plane"></i></button>
+        </nav>
 
         <div class="landscape">
             <iframe src="https://www.google.com/maps/embed?pb=!4v1647422749409!6m8!1m7!1sCAoSLEFGMVFpcE1pQmM4TVd0RUhnMVFDeVMza3pUaFBPbTNlVV9jR3FXOFhwbkE4!2m2!1d64.0272567053162!2d-16.97534670631347!3f327.0921141707498!4f16.012918609540947!5f0.7820865974627469" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
