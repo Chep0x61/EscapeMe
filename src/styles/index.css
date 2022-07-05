@@ -21,6 +21,7 @@ body {
 }
 
 h1 {
+    font-family: 'Josefin Sans';
     padding-top: 15vh;
     font-size: 5rem;
     color: black;
