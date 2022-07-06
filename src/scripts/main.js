@@ -1,5 +1,5 @@
 function destPicker(state, landscape) {
-    let destinations = ["gardenRhapsody", "goldenGateBridge", "himalaya", "icelandWaterfall", "kilimanjaro", "magdalenefjorden", "stMichaelsMount", "vietnamWaterfall"];
+    let destinations = ["brooklynBridge", "cologneCathedral", "deoksugung", "eiffelTower", "gardenRhapsody", "goldenGateBridge", "himalaya", "icelandWaterfall", "kilimanjaro", "magdalenefjorden", "stMichaelsMount", "vietnamWaterfall"];
     let redirect = destinations[Math.floor(Math.random()*destinations.length)];
 
     while (redirect == landscape) {
