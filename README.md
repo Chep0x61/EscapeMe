@@ -12,9 +12,6 @@ I used basic web skills devlopment with : HTML, CSS & Javascript.
 I tried to use the package Three.js on the main page and to do a fully responsive website.
 
 
-## Feel free to discover landscapes and enjoy the trip
-
-[EscapeMe]([https://www.google.com](https://tthuillier.github.io/EscapeMe/) "EscapeMe")
-
+## [Feel free to discover landscapes and enjoy the trip](https://tthuillier.github.io/EscapeMe/)
 
 
