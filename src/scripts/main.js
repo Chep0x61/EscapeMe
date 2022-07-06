@@ -6,11 +6,11 @@ function destPicker(state, landscape) {
         redirect = destinations[Math.floor(Math.random()*destinations.length)];
     }
     if (state == 0)
-        location.href = "../routes/destinations/" + redirect + ".html";
+        location.href = "src/routes/destinations/" + redirect + ".html";
     if (state == 1)
         location.href = redirect + ".html";
 }
 
 function mainMenu() {
-    location.href = "../index.html";
+    location.href = "../../../index.html";
 }
