@@ -11,7 +11,7 @@
 
 ## Discover EscapeMe
 
-### Just click on the picture bellow to enjoy EscapeMe throw awesome landscapes :
+### Just click on the picture bellow to enjoy EscapeMe through awesome landscapes :
 
 <a href="https://chep0x61.github.io/EscapeMe/" target="_blank" rel="noreferrer"> <img src="https://github.com/Chep0x61/EscapeMe/blob/main/.github/assets/escapeme.png?raw=true" alt="EscapeMeMainPage" width="600" height="400"/> </a>
 
